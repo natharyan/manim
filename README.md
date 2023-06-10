@@ -1,2 +1,2 @@
 # manim
-Stuff I have learned in manim
+Updates made along the repository versions
